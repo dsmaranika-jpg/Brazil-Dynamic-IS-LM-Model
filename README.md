@@ -19,5 +19,5 @@ Variables include:
 - Money supply
 - Investment indicators
 
-# Author
+## Author
 Smaranika Dash
